@@ -1,4 +1,4 @@
-# Mobile-Money-Revenue-Transaction-Trends-Dashboard-Tableau-
+# Mobile-Money-Revenue-Transaction-Trends-Dashboard-Tableau
 
 # Problem Statement:
 Telecoms and fintech companies in Ghana process millions of mobile money transactions daily. Understanding transaction volumes, success rates, and failure patterns is crucial to minimizing lost revenue and enhancing platform uptime.
